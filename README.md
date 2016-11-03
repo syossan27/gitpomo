@@ -15,7 +15,7 @@ Manage pomodoro for github issue.
 ## Install
 
 Install Here！
-[Chrome WebStore - gitpomo]()
+[Chrome WebStore - gitpomo](https://chrome.google.com/webstore/detail/gitpomo/leipccepjfacodjfedlhnnhjgondmoip?hl=ja)
 
 ## License
 
